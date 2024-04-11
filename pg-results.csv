@@ -1,0 +1,33 @@
+Corpus language,Query language,Query difficulty,Retriever,Hit Rate,Mean Reciprocal Rank
+English,English,Easy,PG hybrid,1.000,0.989117
+English,English,Easy,PG text,0.835,0.740150
+English,English,Hard,PG hybrid,0.978,0.934600
+English,English,Hard,PG text,0.513,0.397950
+French,French,Easy,PG hybrid,0.996,0.981500
+French,French,Easy,PG text,0.498,0.394283
+French,French,Hard,PG hybrid,0.955,0.904900
+French,French,Hard,PG text,0.265,0.200933
+English,English,Easy,Reciprocal Rank Fusion,1.000,0.986033
+English,English,Easy,Relative Score Fusion,1.000,0.988917
+English,English,Hard,Reciprocal Rank Fusion,0.985,0.920600
+English,English,Hard,Relative Score Fusion,0.987,0.945250
+French,French,Easy,Reciprocal Rank Fusion,0.998,0.985333
+French,French,Easy,Relative Score Fusion,0.998,0.989667
+French,French,Hard,Reciprocal Rank Fusion,0.966,0.880450
+French,French,Hard,Relative Score Fusion,0.966,0.913150
+English,English,Easy,BM25,0.995,0.968617
+English,English,Easy,Vector,0.999,0.985583
+English,English,Hard,BM25,0.884,0.771383
+English,English,Hard,Vector,0.986,0.935700
+English,French,Easy,BM25,0.136,0.053300
+English,French,Easy,Vector,0.974,0.930783
+English,French,Hard,BM25,0.148,0.078583
+English,French,Hard,Vector,0.897,0.791333
+French,English,Easy,BM25,0.438,0.314800
+French,English,Easy,Vector,0.986,0.942900
+French,English,Hard,BM25,0.266,0.187383
+French,English,Hard,Vector,0.957,0.871183
+French,French,Easy,BM25,0.993,0.960300
+French,French,Easy,Vector,0.995,0.983617
+French,French,Hard,BM25,0.807,0.677633
+French,French,Hard,Vector,0.963,0.905733
