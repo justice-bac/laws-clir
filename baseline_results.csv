@@ -1,0 +1,17 @@
+Corpus language,Query language,Query difficulty,Retriever,Hit Rate,Mean Reciprocal Rank
+English,English,Easy,BM25,0.995,0.968617
+English,English,Easy,Vector,0.999,0.985583
+English,English,Hard,BM25,0.884,0.771383
+English,English,Hard,Vector,0.986,0.935700
+English,French,Easy,BM25,0.136,0.053300
+English,French,Easy,Vector,0.974,0.930783
+English,French,Hard,BM25,0.148,0.078583
+English,French,Hard,Vector,0.897,0.791333
+French,English,Easy,BM25,0.438,0.314800
+French,English,Easy,Vector,0.986,0.942900
+French,English,Hard,BM25,0.266,0.187383
+French,English,Hard,Vector,0.957,0.871183
+French,French,Easy,BM25,0.993,0.960300
+French,French,Easy,Vector,0.995,0.983617
+French,French,Hard,BM25,0.807,0.677633
+French,French,Hard,Vector,0.963,0.905733
